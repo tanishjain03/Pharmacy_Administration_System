@@ -1,0 +1,1 @@
+javac -d c:\PharmacyAdministrationSystem\inventory\bl\classes -cp c:\PharmacyAdministrationSystem\inventory\bl\classes;c:\PharmacyAdministrationSystem\inventory\dbdl\classes;. *.java

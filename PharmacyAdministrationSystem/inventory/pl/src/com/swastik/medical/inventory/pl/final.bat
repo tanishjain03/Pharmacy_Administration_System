@@ -1,0 +1,1 @@
+java -cp c:\PharmacyAdministrationSystem\inventory\bl\classes;c:\PharmacyAdministrationSystem\inventory\dbdl\classes;c:\java-derby\lib\*;. UserFrame

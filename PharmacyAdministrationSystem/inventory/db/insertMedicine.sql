@@ -1,0 +1,1 @@
+insert into medicines (name,category,buyingCost,MRP,billNumber,traderName,manuMonth,manuMonthNumber,manuYear,exMonth,exMonthNumber,exYear,billDate,billMonth,billYear,ammountOfMedicine) values ('A1Z','Tablet',20.00,23.00,'H10','Ram','May',5,'2019','June',6,'2021','21','June','2019',3);

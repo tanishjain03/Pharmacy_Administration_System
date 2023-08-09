@@ -1,0 +1,1 @@
+insert into users (userName,passward,masterPassward) values ('sapan','sapan','sapanjain');
